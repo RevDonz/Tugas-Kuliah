@@ -1,0 +1,11 @@
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\bin\Debug\modul2_1302204051.exe.config
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\bin\Debug\modul2_1302204051.exe
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\bin\Debug\modul2_1302204051.pdb
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\obj\Debug\modul2_1302204051.csproj.AssemblyReference.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\obj\Debug\modul2_1302204051.csproj.SuggestedBindingRedirects.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\obj\Debug\modul2_1302204051.Form1.resources
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\obj\Debug\modul2_1302204051.Properties.Resources.resources
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\obj\Debug\modul2_1302204051.csproj.GenerateResource.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\obj\Debug\modul2_1302204051.csproj.CoreCompileInputs.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\obj\Debug\modul2_1302204051.exe
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\modul2_1302204051\obj\Debug\modul2_1302204051.pdb
