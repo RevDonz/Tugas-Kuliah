@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640148087 source:e:\apps\c++ project\praktikum modul 12\main.cpp
+	<iostream>
+	"graph.h"
+
+1640146659 source:e:\apps\c++ project\praktikum modul 12\graph.cpp
+	"Graph.h"
+
+1640144695 e:\apps\c++ project\praktikum modul 12\graph.h
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1633873552 source:e:\apps\c++ project\tugas pendahuluan 4\sll.cpp
+	"sll.h"
+
+1633873527 e:\apps\c++ project\tugas pendahuluan 4\sll.h
+	<iostream>
+
+1633873689 source:e:\apps\c++ project\tugas pendahuluan 4\main.cpp
+	"sll.h"
+

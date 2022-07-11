@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633493378 source:e:\apps\c++ project\praktikum modul 3\main.cpp
+	"catalog.h"
+	"catalog.cpp"
+
+1633493262 e:\apps\c++ project\praktikum modul 3\catalog.h
+	<iostream>
+
+1633495991 e:\apps\c++ project\praktikum modul 3\catalog.cpp
+	"catalog.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640756142 source:e:\apps\c++ project\praktikum modul 13\btree.cpp
+	"btree.h"
+
+1640755518 e:\apps\c++ project\praktikum modul 13\btree.h
+	<iostream>
+
+1641547410 source:e:\apps\c++ project\praktikum modul 13\main.cpp
+	"btree.h"
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635305552 source:e:\apps\c++ project\praktikum modul 6\test_dll_first_last.cpp
+
+1635310327 source:e:\apps\c++ project\praktikum modul 6\dll_first_last.cpp
+	"DLL_first_last.h"
+
+1635307033 e:\apps\c++ project\praktikum modul 6\dll_first_last.h
+	<iostream>
+
+1635311417 source:e:\apps\c++ project\praktikum modul 6\main.cpp
+	"DLL_First_last.h"
+

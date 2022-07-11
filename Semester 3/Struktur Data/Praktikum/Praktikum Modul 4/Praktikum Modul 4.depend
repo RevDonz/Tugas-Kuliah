@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634101832 source:e:\apps\c++ project\praktikum modul 4\mylist.cpp
+	"mylist.h"
+
+1634101832 e:\apps\c++ project\praktikum modul 4\mylist.h
+	<iostream>
+
+1634102765 source:e:\apps\c++ project\praktikum modul 4\main.cpp
+	"mylist.h"
+

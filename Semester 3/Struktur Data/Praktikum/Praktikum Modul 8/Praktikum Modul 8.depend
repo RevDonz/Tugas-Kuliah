@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637731571 source:e:\apps\c++ project\praktikum modul 8\main.cpp
+	<iostream>
+	"csll.h"
+
+1637731177 e:\apps\c++ project\praktikum modul 8\csll.h
+	<iostream>
+
+1637731423 source:e:\apps\c++ project\praktikum modul 8\csll.cpp
+	"csll.h"
+

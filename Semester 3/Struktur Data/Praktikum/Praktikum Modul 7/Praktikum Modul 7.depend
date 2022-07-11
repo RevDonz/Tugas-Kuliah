@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635913299 source:e:\apps\c++ project\praktikum modul 7\main.cpp
+	"assignment.h"
+
+1635913299 e:\apps\c++ project\praktikum modul 7\assignment.h
+	<iostream>
+
+1635913299 source:e:\apps\c++ project\praktikum modul 7\assignment.cpp
+	"assignment.h"
+

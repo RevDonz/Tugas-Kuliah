@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634970286 source:e:\apps\c++ project\praktikum modul 5\main.cpp
+	<iostream>
+	"kantor.h"
+
+1634969539 e:\apps\c++ project\praktikum modul 5\kantor.h
+	<iostream>
+
+1634970275 source:e:\apps\c++ project\praktikum modul 5\kantor.cpp
+	"kantor.h"
+

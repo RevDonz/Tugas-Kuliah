@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1639545277 source:e:\apps\c++ project\praktikum modul 11\stack.cpp
+	"Stack.h"
+
+1639542551 source:e:\apps\c++ project\praktikum modul 11\main.cpp
+	"queue.h"
+	"stack.h"
+
+1639541121 e:\apps\c++ project\praktikum modul 11\queue.h
+	<iostream>
+
+1639542432 e:\apps\c++ project\praktikum modul 11\stack.h
+	<iostream>
+
+1639546598 source:e:\apps\c++ project\praktikum modul 11\queue.cpp
+	"Queue.h"
+

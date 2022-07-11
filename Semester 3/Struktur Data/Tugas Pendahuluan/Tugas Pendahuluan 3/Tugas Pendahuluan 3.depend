@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633258905 source:e:\apps\c++ project\tugas pendahuluan 3\main.cpp
+	"mahasiswa.h"
+	"mahasiswa.cpp"
+
+1633259144 e:\apps\c++ project\tugas pendahuluan 3\mahasiswa.h
+	<iostream>
+	<cstdlib>
+
+1633259111 e:\apps\c++ project\tugas pendahuluan 3\mahasiswa.cpp
+	"mahasiswa.h"
+

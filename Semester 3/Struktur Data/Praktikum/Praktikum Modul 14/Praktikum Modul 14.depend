@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1641355954 source:e:\apps\c++ project\praktikum modul 14\binarysearchtree.cpp
+	"binarySearchTree.h"
+
+1641355954 e:\apps\c++ project\praktikum modul 14\binarysearchtree.h
+	<iostream>
+
+1641360802 source:e:\apps\c++ project\praktikum modul 14\graph.cpp
+	"graph.h"
+
+1641358692 e:\apps\c++ project\praktikum modul 14\graph.h
+	<iostream>
+
+1641546714 source:e:\apps\c++ project\praktikum modul 14\main.cpp
+	"binarySearchTree.h"
+	"graph.h"
+

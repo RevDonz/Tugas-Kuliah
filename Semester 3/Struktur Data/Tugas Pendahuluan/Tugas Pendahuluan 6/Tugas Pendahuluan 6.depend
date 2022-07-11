@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635078269 source:e:\apps\c++ project\tugas pendahuluan 6\main.cpp
+	<iostream>
+	"menu.h"
+
+1635077678 e:\apps\c++ project\tugas pendahuluan 6\menu.h
+	<iostream>
+
+1635077640 source:e:\apps\c++ project\tugas pendahuluan 6\menu.cpp
+	"menu.h"
+

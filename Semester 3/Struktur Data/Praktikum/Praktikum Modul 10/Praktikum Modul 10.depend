@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638941722 source:e:\apps\c++ project\praktikum modul 10\main.cpp
+	"multi.h"
+
+1638934997 e:\apps\c++ project\praktikum modul 10\multi.h
+	<iostream>
+
+1638941098 source:e:\apps\c++ project\praktikum modul 10\multi.cpp
+	"multi.h"
+
