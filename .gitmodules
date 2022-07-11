@@ -1,0 +1,9 @@
+[submodule "modul6_kelompok_04"]
+	path = modul6_kelompok_04
+	url = https://github.com/RevDonz/modul6_kelompok_04.git
+[submodule "Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 2/jurnal-modul-2-kpl"]
+	path = Semester 4/Konstruksi Perangkat Lunak/Praktikum/Modul 2/jurnal-modul-2-kpl
+	url = https://github.com/RevDonz/jurnal-modul-2-kpl.git
+[submodule "Semester 4/Konstruksi Perangkat Lunak/Tugas Pendahuluan/Modul 6/modul6_kelompok_04"]
+	path = Semester 4/Konstruksi Perangkat Lunak/Tugas Pendahuluan/Modul 6/modul6_kelompok_04
+	url = https://github.com/RevDonz/modul6_kelompok_04.git
