@@ -1,0 +1,7 @@
+D:\C#\Jurnalsoal1\Jurnalsoal1\bin\Debug\Jurnalsoal1.exe.config
+D:\C#\Jurnalsoal1\Jurnalsoal1\bin\Debug\Jurnalsoal1.exe
+D:\C#\Jurnalsoal1\Jurnalsoal1\bin\Debug\Jurnalsoal1.pdb
+D:\C#\Jurnalsoal1\Jurnalsoal1\obj\Debug\Jurnalsoal1.csprojAssemblyReference.cache
+D:\C#\Jurnalsoal1\Jurnalsoal1\obj\Debug\Jurnalsoal1.csproj.CoreCompileInputs.cache
+D:\C#\Jurnalsoal1\Jurnalsoal1\obj\Debug\Jurnalsoal1.exe
+D:\C#\Jurnalsoal1\Jurnalsoal1\obj\Debug\Jurnalsoal1.pdb

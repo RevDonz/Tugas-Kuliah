@@ -1,0 +1,12 @@
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\bin\Debug\net6.0\MathematicsLibraries.deps.json
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\bin\Debug\net6.0\MathematicsLibraries.dll
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\bin\Debug\net6.0\MathematicsLibraries.pdb
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\MathematicsLibraries.csproj.AssemblyReference.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\MathematicsLibraries.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\MathematicsLibraries.AssemblyInfoInputs.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\MathematicsLibraries.AssemblyInfo.cs
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\MathematicsLibraries.csproj.CoreCompileInputs.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\MathematicsLibraries.dll
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\refint\MathematicsLibraries.dll
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\MathematicsLibraries.pdb
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 12\modul12_1302204051\MatematikaLibraries\obj\Debug\net6.0\ref\MathematicsLibraries.dll
